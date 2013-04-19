@@ -33,7 +33,7 @@ $plugin_info = array(
 						'pi_description'	=> 'Allows the regular, scheduled calling of plugins and modules',
 						'pi_usage'			=> Cron::usage()
 					);
-
+dd
 /**
  *  Cron Class
  *
